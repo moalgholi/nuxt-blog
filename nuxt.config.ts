@@ -42,4 +42,5 @@ export default defineNuxtConfig({
     "@/assets/css/Shabnam.css",
     "@/assets/css/style.css",
   ],
+  modules: ["@pinia/nuxt"],
 });
